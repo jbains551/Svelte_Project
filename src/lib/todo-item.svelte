@@ -7,6 +7,9 @@
     <form action="" method="">
         <input type="text" />
         <button aria-label="Save todo">Save</button>
-            <button aria-label="Delete todo">Delete</button>
+    </form>
+
+    <form action="" method="">
+        <button aria-label="Delete todo">Delete</button>
     </form>
 </div>
